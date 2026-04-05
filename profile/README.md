@@ -139,6 +139,9 @@ Interactive clickable prototype showing the full user interface and flows.
 ### System Flow Chart
 **[👉 Open RDTC Flow Chart](https://www.figma.com/board/Z6uI657wYDM02vr8zENwNb/RDTC-Flow-Chart?node-id=0-1&p=f&t=bvOV1f9VwH3GKIRx-0)**
 
+### Trello
+**[👉 Open Progress](https://aeroservice.atlassian.net/jira/core/projects/KEY/board?filter=&groupBy=status)**
+
 ## 🗺️ Roadmap
 
 - Add backend service (`backend/`) for auth, staff, payroll, and training modules.
