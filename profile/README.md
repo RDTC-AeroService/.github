@@ -127,6 +127,11 @@ If you connect this frontend to an API later, create `frontend/.env.local`:
 NEXT_PUBLIC_API_URL=http://localhost:3000/api
 ```
 
+## 🪧 Figma
+
+- Prototype: [https://www.figma.com/design/9oY3qd8p2hMmjIlovoNA9K/RDTC-Prototype?node-id=0-1&p=f&t=46KgtfWy9B3vznno-0]
+- System Flows: [https://www.figma.com/board/Z6uI657wYDM02vr8zENwNb/RDTC-Flow-Chart?node-id=0-1&p=f&t=bvOV1f9VwH3GKIRx-0]
+
 ## 🗺️ Roadmap
 
 - Add backend service (`backend/`) for auth, staff, payroll, and training modules.
