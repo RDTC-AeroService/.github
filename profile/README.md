@@ -108,6 +108,8 @@ pnpm install
 pnpm dev
 ```
 
+[K072408108]
+
 Open `http://localhost:3000` in your browser.
 
 ### 🔁 Alternative package managers
