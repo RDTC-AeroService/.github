@@ -161,6 +161,13 @@ Interactive clickable prototype showing the full user interface and flows.
 
 This project is licensed under the MIT License.
 
+## 🏁 Website Appilication Deployment
+
+<img src="./websiteQR.png"/>
+
+link: https://web-v1-lilac.vercel.app/
+
+
 ## 📬 Contact
 
 For questions or support, reach out to 
